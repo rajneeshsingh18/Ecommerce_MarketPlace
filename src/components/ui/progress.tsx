@@ -17,7 +17,7 @@ function Progress({
         "bg-primary/20 relative h-3 w-full overflow-hidden rounded-full",
         //Modified classes
 
-        "border bg-transparent",
+        "border bg-white",
 
         className
       )}
